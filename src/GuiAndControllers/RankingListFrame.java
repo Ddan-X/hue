@@ -1,7 +1,7 @@
 package GuiAndControllers;
 /**
  * ranking list is show max streak day
- * @author luod1
+ * @author dan
  */
 import Model.Habit;
 import Model.ModeTranslators;

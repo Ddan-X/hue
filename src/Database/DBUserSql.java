@@ -3,7 +3,7 @@ package Database;
 /**
  * this class is for the habit user database modify
  *
- * @author luod1
+ * @author dan
  */
 import Model.UserInfo;
 import java.sql.ResultSet;

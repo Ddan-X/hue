@@ -2,7 +2,7 @@ package GuiAndControllers;
 
 /**
  * Home frame and controller
- * @author sunxi
+ * @author dan
  */
 public class Home extends javax.swing.JFrame {
 

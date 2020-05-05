@@ -1,7 +1,7 @@
 package GuiAndControllers;
 /**
  * modify habit frame, add and update
- * @author luod1
+ * @author dan
  */
 import Model.Habit;
 import Model.ModeTranslators;

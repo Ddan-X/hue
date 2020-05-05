@@ -1,7 +1,7 @@
 package Habit_API;
 /**
  *This translator class connector for twitter API
- * @author luod1
+ * @author dan
  */
 import twitter4j.Twitter;
 import twitter4j.auth.AccessToken;

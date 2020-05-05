@@ -1,16 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Translators;
 
-import Model.TwitterUserInfo;
-
 /**
- *
+ *Twitter user interface
+ * defines the methods that need to be implemented for any
  * @author luod1
  */
+import Model.TwitterUserInfo;
+
 public interface TwitterUserInterface {
 
     public TwitterUserInfo selectTwitterUser(int _twitterId);
