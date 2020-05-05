@@ -1,20 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Translators;
-
+/**
+ *This translator class connector the database habits 
+ * @author dan
+ */
 import Database.DBHabitsInterface;
 import Database.DBHabitsSql;
 import Model.Habit;
 import java.sql.Date;
 import java.util.List;
 
-/**
- *
- * @author luod1
- */
+
 public class HabitsApapter implements HabitsInterface{
     
     DBHabitsInterface habits =  new DBHabitsSql();

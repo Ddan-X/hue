@@ -3,7 +3,7 @@ package Habit_API;
 /**
  *Twitter api interface 
  * defines the methods that need to be implemented for any
- * @author luod1
+ * @author dan
  */
 import twitter4j.Twitter;
 import twitter4j.auth.AccessToken;

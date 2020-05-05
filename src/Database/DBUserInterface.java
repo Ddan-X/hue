@@ -4,7 +4,7 @@ package Database;
 /**
  * database user interface 
  * defines the methods that need to be implemented for any
- * @author luod1
+ * @author dan
  */
 import Model.UserInfo;
 

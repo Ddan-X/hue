@@ -3,7 +3,7 @@ package Model;
 
 /**
  * This class is Twitter User information 
- * @author luod1
+ * @author dan
  */
 public class TwitterUserInfo {
 

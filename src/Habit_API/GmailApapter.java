@@ -2,7 +2,7 @@ package Habit_API;
 
 /**
  * This translator class connector for sendGmail API
- * @author luod1
+ * @author dan
  */
 public class GmailApapter implements GmailInterface{
     

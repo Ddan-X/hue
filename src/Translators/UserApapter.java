@@ -1,18 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Translators;
-
+/**
+ *this class is translator to connect the user database 
+ * @author dan
+ */
 import Database.DBUserSql;
 import Model.UserInfo;
 import Database.DBUserInterface;
 
-/**
- *
- * @author luod1
- */
+
 public class UserApapter implements UserInterface{
     
     DBUserInterface ts = new DBUserSql();

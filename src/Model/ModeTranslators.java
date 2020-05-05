@@ -1,7 +1,7 @@
 package Model;
 /**
  * the information of user is login 
- * @author luod1
+ * @author dan
  */
 import java.util.ArrayList;
 import java.util.List;

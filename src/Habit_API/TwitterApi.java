@@ -3,7 +3,7 @@ package Habit_API;
 /**
  * Class is TwitterApi, to connect Twitter and get authorization from user
  *
- * @author luod1
+ * @author dan
  */
 import java.awt.Desktop;
 import java.io.IOException;

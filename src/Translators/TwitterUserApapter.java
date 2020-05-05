@@ -2,15 +2,13 @@ package Translators;
 
 /**
  * this class is translator to connect the twitter user database 
+ * @author dan
  */
 import Database.DBTwitterSql;
 import Model.TwitterUserInfo;
 import Database.DBTwitterInterface;
 
-/**
- *
- * @author luod1
- */
+
 public class TwitterUserApapter implements TwitterUserInterface{
     
     DBTwitterInterface dt = new DBTwitterSql();
